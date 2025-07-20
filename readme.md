@@ -10,3 +10,5 @@ wazzzzuuuuupppppp,,,,,    this is a conflict branch
 ***hey, there. i am making this change***
 
 ## Developement is amazing!!!
+
+# THIS IS AN EXAMPLE TO MAKE A MERGE CONFLICT
